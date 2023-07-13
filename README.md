@@ -1,39 +1,41 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome,
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+<h1 align="center"><strong>🌞🚵 Summer of Code 🏄🏖️</strong>
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
+</h1>
 
-## Codeanywhere Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+![Summer of Code Banner](https://res.cloudinary.com/djdefbnij/image/upload/v1688114955/Summer_2_owummy.png)
 
-`python3 -m http.server`
+# SUBMISSION
+## Deployment
+#### _(please note, your team must also include the deployed links in the usual submission in Hackapp)_
+The project is deployed and can be accessed at [http://your-deployed-link.com](http://your-deployed-link.com).
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Criteria
+In this section, we will briefly discuss how our team addressed the applicable criteria:
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+- ✨ Project is 100% Mobile First
+- ✨ Project uses browser location or device camera
+- ✨ Project aligns well to the Hackathon Theme
+- ✨ Clear use of Github Projects or other agile tool
+- ✨ Presentation Quality - Present as if you are pitching it to client
 
-`http_server`
+# ABOUT SUBMISSION
+## Intro
+One or two paragraphs providing an overview of our project
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Goal
+The goal section provides a concise summary of the main objective or purpose of the project or software described in this README. It addresses the following aspects:
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- ➡️ Problem Statement
+- ➡️ Objective(s)
+- ➡️ Target Audience
+- ➡️ Benefits
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Tech
+In the tech section, we provide information about the technology stack, dependencies, and any technical details related to the project.
 
-To log into the Heroku toolbelt CLI:
+## Credits
+We would like to give credit to the following individuals, organizations, and resources that have contributed to the project or provided inspiration:
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
